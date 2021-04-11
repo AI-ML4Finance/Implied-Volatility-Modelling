@@ -1,2 +1,3 @@
 # Implied-Volatility-Modelling
-Implied-Volatility-Modelling # Work In Progress (Currently On Hold) This repo aims to provide a gentle introduction to implied volatility modelling
+
+ # Work In Progress (Currently On Hold) This repo aims to provide a gentle introduction to implied volatility modelling
